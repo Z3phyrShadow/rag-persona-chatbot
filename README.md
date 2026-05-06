@@ -1,5 +1,9 @@
 # RAG Persona Chatbot
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B?logo=streamlit&logoColor=white)](https://rag-persona-chatbot-kastack.streamlit.app)
+
+> 🌐 **Hosted app:** [https://rag-persona-chatbot-kastack.streamlit.app](https://rag-persona-chatbot-kastack.streamlit.app)
+
 > **ML Engineer Take-Home Assignment — KaStack Labs**  
 > A two-stage pipeline: an offline indexer (`build_index.py`) and a Streamlit chatbot UI (`app.py`).
 
