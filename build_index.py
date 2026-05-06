@@ -4,10 +4,10 @@ build_index.py — Offline ingestion script (run ONCE before launching app.py).
 Steps executed:
   1. Parse conversations.csv into a flat chronological message list.
   2. Embed all messages with sentence-transformers (all-MiniLM-L6-v2).
-  3A. Topic checkpoints  — sliding-window cosine similarity → Groq summaries → ChromaDB.
+  3A. Topic checkpoints  — sliding-window cosine similarity → llama-3.1-8b summary → ChromaDB.
   3B. Chunk checkpoints  — every-100-message rolling summaries → ChromaDB.
   3C. Raw messages       — store raw texts in ChromaDB for retrieval.
-  4.  Persona extraction — map-reduce with Groq JSON-mode → persona.json.
+  4.  Persona extraction — map-reduce with llama-3.1-8b JSON-mode → persona.json.
 
 Usage:
     uv run python build_index.py
