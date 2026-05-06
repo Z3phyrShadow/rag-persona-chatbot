@@ -1,0 +1,24 @@
+# ── Secrets ───────────────────────────────────────────────────
+.env
+
+# ── Python ────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ── Dev / test artefacts ──────────────────────────────────────
+test_retrieval.py
+mock_persona.json
+chroma_db_test/
+
+# ── OS / IDE ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

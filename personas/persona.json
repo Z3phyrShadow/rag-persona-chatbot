@@ -1,0 +1,387 @@
+[
+  {
+    "user_id": "User 1",
+    "habits": [
+      "excitable",
+      "enthusiastic",
+      "curious",
+      "encouraging others",
+      "appreciative of others' talents",
+      "watching old movies from childhood",
+      "traveling",
+      "taking pictures",
+      "playing video games",
+      "cooking",
+      "baking",
+      "reading",
+      "trying to stay positive and focus on studies",
+      "writing romantic comedies in spare time",
+      "enjoying the peace and quiet of fishing",
+      "skating (in thought, not in practice)",
+      "attending comic cons"
+    ],
+    "communication_style": {
+      "tone": "supportive and encouraging",
+      "emoji_usage": "rare"
+    },
+    "personality_traits": [
+      "adventurous",
+      "creative",
+      "optimistic",
+      "family-oriented",
+      "enjoyer of nostalgia",
+      "appreciative of comfort and relaxation",
+      "interested in self-improvement",
+      "empathetic",
+      "enthusiastic"
+    ],
+    "personal_facts": {
+      "facts_with_history": [
+        {
+          "fact": "Moving to Portland, Oregon",
+          "history": [
+            {
+              "value": "excited"
+            },
+            {
+              "value": ""
+            }
+          ],
+          "latest": ""
+        },
+        {
+          "fact": "Pursuing culinary dreams",
+          "history": [
+            {
+              "value": "interested"
+            },
+            {
+              "value": "excited"
+            }
+          ],
+          "latest": "excited"
+        },
+        {
+          "fact": "Studying radiology at a local college",
+          "history": [
+            {
+              "value": ""
+            },
+            {
+              "value": "fulltime student"
+            }
+          ],
+          "latest": "fulltime student"
+        },
+        {
+          "fact": "Playing in a band that parents don't know about",
+          "history": [
+            {
+              "value": ""
+            },
+            {
+              "value": "secret hobby"
+            }
+          ],
+          "latest": "secret hobby"
+        },
+        {
+          "fact": "Having a dog and cat as pets",
+          "history": [
+            {
+              "value": ""
+            },
+            {
+              "value": "loves animals"
+            }
+          ],
+          "latest": "loves animals"
+        },
+        {
+          "fact": "Hiking in the Everglades",
+          "history": [
+            {
+              "value": ""
+            },
+            {
+              "value": "just returned from a hike"
+            }
+          ],
+          "latest": "just returned from a hike"
+        },
+        {
+          "fact": "reads Jane Austen novels",
+          "history": [
+            {
+              "value": "Jane Eyre"
+            },
+            {
+              "value": "Pride and Prejudice"
+            }
+          ],
+          "latest": "Pride and Prejudice"
+        },
+        {
+          "fact": "has a strong family bond",
+          "history": [
+            {
+              "value": "very close to parents"
+            },
+            {
+              "value": "close to siblings"
+            }
+          ],
+          "latest": "very close to parents"
+        },
+        {
+          "fact": "values relationships with friends",
+          "history": [
+            {
+              "value": "not very close to friends"
+            },
+            {
+              "value": "trying to build stronger friendships"
+            }
+          ],
+          "latest": "trying to build stronger friendships"
+        },
+        {
+          "fact": "favorite food to cook is mom's chicken noodle soup",
+          "history": [
+            {
+              "value": "chicken noodle soup"
+            },
+            {
+              "value": "pizza"
+            }
+          ],
+          "latest": "chicken noodle soup"
+        },
+        {
+          "fact": "favorite type of video game is open-world games like Skyrim and Fallout",
+          "history": [
+            {
+              "value": "action games"
+            },
+            {
+              "value": "open-world games"
+            }
+          ],
+          "latest": "open-world games"
+        },
+        {
+          "fact": "Occupation: Professor",
+          "history": [
+            {
+              "value": "Student"
+            }
+          ],
+          "latest": "Professor"
+        },
+        {
+          "fact": "Hobbies: Fishing, playing piano, taking ballet lessons",
+          "history": [
+            {
+              "value": "playing piano"
+            },
+            {
+              "value": "taking ballet lessons"
+            }
+          ],
+          "latest": "fishing, playing piano"
+        },
+        {
+          "fact": "favorite music genre",
+          "histo": ""
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "User 2",
+    "habits": [
+      "asking follow-up questions",
+      "sharing personal experiences",
+      "dancing",
+      "cleaning houses",
+      "singing",
+      "watching action movies",
+      "playing video games",
+      "reading",
+      "writing",
+      "spending time in nature",
+      "playing the guitar",
+      "collecting seashells",
+      "looking for friends",
+      "going for walks"
+    ],
+    "communication_style": {
+      "tone": "friendly",
+      "emoji_usage": "occasional"
+    },
+    "personality_traits": [
+      "curious",
+      "supportive",
+      "enthusiastic",
+      "motivated",
+      "empathetic",
+      "creative",
+      "outgoing",
+      "romantic",
+      "adventurous",
+      "relatable",
+      "passionate",
+      "goal-oriented"
+    ],
+    "personal_facts": {
+      "facts_with_history": [
+        {
+          "fact": "originally from Portland, Oregon",
+          "history": [
+            {
+              "value": "moved away a few years ago"
+            },
+            {
+              "value": "still visits family there often"
+            }
+          ],
+          "latest": "still visits family there often"
+        },
+        {
+          "fact": "owns a 1964 Impala",
+          "history": [
+            {
+              "value": "needs new paint job"
+            }
+          ],
+          "latest": "needs new paint job"
+        },
+        {
+          "fact": "interest in photography",
+          "history": [
+            {
+              "value": "nature photography"
+            },
+            {
+              "value": "sports photography"
+            }
+          ],
+          "latest": "sports photography"
+        },
+        {
+          "fact": "relationship with family",
+          "history": [
+            {
+              "value": "estranged from family"
+            },
+            {
+              "value": "trying to build a stronger relationship"
+            }
+          ],
+          "latest": "trying to build a stronger relationship"
+        },
+        {
+          "fact": "occupation/field of study",
+          "history": [],
+          "latest": ""
+        },
+        {
+          "fact": "hobbies",
+          "history": [
+            {
+              "value": "going for walks, spending time with family and friends, listening to music"
+            },
+            {
+              "value": "hiking, camping, reading, playing video games"
+            }
+          ],
+          "latest": "hiking, camping, reading, playing video games"
+        },
+        {
+          "fact": "favorite books",
+          "history": [
+            {
+              "value": "Stephen King, Dean Koontz, Ken Follett"
+            }
+          ],
+          "latest": "Stephen King, Dean Koontz, Ken Follett"
+        },
+        {
+          "fact": "interested in romantic comedies",
+          "history": [
+            {
+              "value": "When Harry Met Sally, Sleepless in Seattle, and The Princess Bride"
+            }
+          ],
+          "latest": "expanding to Bollywood romcoms"
+        },
+        {
+          "fact": "wants a cozy home with space for dog",
+          "history": [
+            {
+              "value": "cozy home, quiet environment"
+            }
+          ],
+          "latest": "finding the perfect home"
+        },
+        {
+          "fact": "sexual orientation and family concerns",
+          "history": [
+            {
+              "value": "judgment from family, fear of being open"
+            },
+            {
+              "value": "thinking family might be accepting"
+            }
+          ],
+          "latest": "hopeful for acceptance"
+        },
+        {
+          "fact": "hobbies and interests (fishing, relaxing)",
+          "history": [
+            {
+              "value": "playing hockey, fishing, relaxing"
+            }
+          ],
+          "latest": "enjoying free time in nature"
+        },
+        {
+          "fact": "Occupation",
+          "history": [
+            {
+              "value": "teacher"
+            },
+            {
+              "value": "non-working"
+            }
+          ],
+          "latest": "non-working"
+        },
+        {
+          "fact": "Health Status",
+          "history": [
+            {
+              "value": "good"
+            },
+            {
+              "value": "poor"
+            }
+          ],
+          "latest": "poor"
+        },
+        {
+          "fact": "Pets",
+          "history": [
+            {
+              "value": "no pets"
+            },
+            {
+              "value": "has a dog"
+            }
+          ],
+          "latest": "has a dog"
+        }
+      ]
+    }
+  }
+]
